@@ -1,0 +1,10 @@
+/* assigns text color to button tag, and change it while hover */
+
+button {
+	color: #FF0000;
+
+	&:hover {
+		color: #00FF00;
+	}
+}
+
